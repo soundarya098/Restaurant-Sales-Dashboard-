@@ -23,8 +23,8 @@
 ### 📁 Files Included:
 
 * Power BI Dashboard screenshot
-* Raw dataset used (.csv/.xlsx)
-* `.pbix` Power BI report file
+* Raw dataset used (.csv/.xlsx) (not uploaded here)
+* `.pbix` , `.pbip`  Power BI report file
 
 ### 📌 Insights:
 
@@ -36,6 +36,6 @@
 
 ### 🚀 How to Use:
 
-1. Open the `.pbix` file in Power BI Desktop.
+1. Open the `.pbix` and `.pbip` file in Power BI Desktop.
 2. Apply filters to explore trends across different years, genders, or item types.
 3. Use insights to make informed decisions about product offerings, marketing timings, and customer targeting.
