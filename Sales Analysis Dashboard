@@ -1,0 +1,46 @@
+### 🔍 **Sales Analysis Dashboard using Power BI**
+
+This project presents a dynamic and interactive **Sales Analysis Dashboard** built using Power BI. The dashboard is designed to provide a comprehensive overview of sales performance across different categories, regions, segments, and time periods.
+
+### 📊 **Key Insights:**
+
+* 📈 **Total Sales:** ₹2.30M
+* 📦 **Units Sold:** 37.87K
+* 💰 **Total Profit:** ₹286.34K
+* 📆 **Sales Trends (2014 - 2017)**
+* 📍 **Sales by Region:** West region has the highest sales
+* 🧾 **Category-wise Performance:**
+
+  * Technology (36.4%)
+  * Furniture (32.3%)
+  * Office Supplies (31.3%)
+* 🧭 **Segment-wise Insights:** Consumer, Corporate, Home Office
+* 🚚 **Sales by Ship Mode:** Standard Class is the most used
+* 🧮 **Top 10 Products Sold:** Ranked by total sales
+* 📉 **Quarterly and Monthly Trends:** Visualized with line, bar, pie, and treemap charts
+
+
+### 🛠️ **Tools Used:**
+
+* **Power BI Desktop**
+* **DAX Measures**
+* **Power Query Editor**
+* **Slicer Filters (Year, Region, Category)**
+
+### 📁 **Repository Structure:**
+
+```
+📦 Sales-Analysis-Dashboard
+├── 📁 Images/
+│   ├── dashboard-overview-1.png
+│   └── dashboard-overview-2.png
+├── 📁 PBIX File/
+│   └── Sales_Analysis_Dashboard.pbix
+├── 📄 README.md
+
+### 🚀 **Features:**
+
+* Interactive filters by **Year**, **Region**, **Category**
+* Sales trend tracking from **2014 to 2017**
+* Drill-down visualizations by month, segment, ship mode, and product
+* Pie, bar, scatter, and treemap visuals for detailed analysis
