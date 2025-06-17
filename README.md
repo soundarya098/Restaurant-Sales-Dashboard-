@@ -1,6 +1,13 @@
 # Restaurant-Sales-Dashboard-
 🍽️ Restaurant Sales Dashboard This Power BI dashboard provides a comprehensive analysis of restaurant sales data over the years 2024 and 2025. It helps stakeholders understand sales patterns, customer behavior, and item preferences across different time periods.
 
+
+![Screenshot 2025-06-17 141906](https://github.com/user-attachments/assets/d21fd39f-590b-412e-8b66-62ac82dcdfcd)
+
+
+<br>
+
+
 ### 📊 Dashboard Features:
 
 * **Total Sales & Avg Spending Score**: High-level metrics showing total sales and average spending per customer.
